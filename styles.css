@@ -1,0 +1,18 @@
+div {
+    border: 1px solid black;
+    color:blue;
+}
+
+img {
+    width: 200px;
+    border: solid black 4px;
+}
+
+body {
+    background-color:lightblue;
+}
+
+.navbar {
+    display: flex;
+    justify-content:space-around;
+}
